@@ -1,4 +1,5 @@
 # JP-Morgan-Virtual-Experience-
+If any doubts Message me on Linkedin Account Profile : https://www.linkedin.com/in/abhijeet-patil-61392614a/
 The JP Morgan Virtual Online Internship included completing a three-part module focused on setting up our workstation so as to enable its interfacing with the relevant financial data feed, make the required calculations and then present this in a way that allows the traders to visualize and analyze this data in real time.
 
 In-depth information regarding software engineering course:
